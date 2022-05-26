@@ -9,7 +9,7 @@ BroadStreet’s COVID-19 Data Project began as an in-house project by BroadStree
 
 The Policy Track of the COVID-19 Data Project first created and piloted this concept to create a qualitative dataset about the contents of Community Health Needs Assessments (CHNAs). By comparing health needs, priorities, and other contents, the CHNAs can be systematically analyzed and geographically compared without regard to the specific health system or size. Since its inception, the CHNA Track has moved to the growing Community Data Project, where it has grown to include five data entry (DE) teams, a quality assurance (QA) team, and a data release (DR) team.
 
-##Structure of Dataset
+## Structure of Dataset
 
 The data is structured and defined in the following way below:
 <ul>
@@ -39,7 +39,7 @@ The data is structured and defined in the following way below:
 Codebook
 
 
-##Methods
+## Methods
 <ul><li><strong>Data Burst Format</strong></li>
 <ul style="list-style-type:circle;"><li>The CHNA Track completes data entry using a data burst format. Data bursts are once-per-week, weekly, synchronous team meetings during which each team member works on the data collection process. During the scheduled time, the team can work together on a Zoom call with their fellow teammates and Team Lead or Assistant Lead. In the event that an intern cannot attend a weekly data burst, he or she communicates closely with the Team Lead and Assistant Lead to ensure that assignments can be completed asynchronously for that particular week. Ultimately, the goal is to create a collaborative work environment where interns feel supported as they complete their weekly data entry assignments.<li></ul>
 <li><strong>Data Entry Process</strong></li>
@@ -57,23 +57,23 @@ Codebook
 <li>Remove QA check box</li>
 </ul></ul></ul>
 
-##Data Challenges/Changes in Process
+## Data Challenges/Changes in Process
 
 The biggest challenge to ensuring quality data is to ensure consistency in our data collection procedures. As an initiative with only a few months of experience, the CHNA Track has continued to undergo tremendous infrastructure change and development in an effort to standardize the way we collect, correct, and clean up data. As we look to the future of the CHNA Track, we look to improve upon the collaborative efforts between our data entry, quality assurance, and data release teams to ensure that our data is clear and accessible to those who access it.
 
-##Future Releases
+## Future Releases
 
 The CHNA Track is dedicated to continuous improvement as it continues to grow and serve as an increasingly prominent track under BroadStreet’s Community Data Project. As a result, the track is looking forward to exploring several additional initiatives in the coming months. For example, given the wide variety in terminology used by CHNAs to identify health needs and priorities, we are exploring ways to categorize these identifiers under broader categories of health as established by Healthy People 2030. Additionally, we are interested in developing a data visualization team to create visual datasets that help elucidate the relationship between geographic location and health needs and priorities. Finally, we are looking to dive deeper into Implementation Plans to see how well CHNAs translate into actionable outcomes for the communities being served by each hospital or hospital system.
 
-##Suggested Citation
+## Suggested Citation
 When using data images, downloaded data, or shared document formats, please attribute BroadStreet as well as the original source, when applicable. For examples and more information, review this article which answers the question ["How do I cite BroadStreet?"](https://help.broadstreet.io/article/citations/)
 
 
-##Contributors
+## Contributors
 
 Arslon Humayun, Brenna Jarvis MPH, Kari Schoettler
 A full list of the Broadstreet Institute volunteers can be found at [https://covid19dataproject.org/team-2/](https://covid19dataproject.org/team-2/)
 
-##Questions / Feedback
+## Questions / Feedback
 
 Email the primary contributors at: hello@broadstreet.io
