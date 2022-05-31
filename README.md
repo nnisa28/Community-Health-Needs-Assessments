@@ -36,7 +36,6 @@ The data is structured and defined in the following way below:
 <li>Implementation_URL: Link to Implementation Plan (N/A if not available)</li>
 <li>Contact: Contact Name, Email, or Phone Number for CHNA information (N/A if not available)</li>
 </ul>
-Codebook
 
 
 ## Methods
