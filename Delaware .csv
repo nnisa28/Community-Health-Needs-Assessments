@@ -1,0 +1,47 @@
+ID,Healthcare Name,Street Address,City,Zipcode,State,Associated Health System,Funding_Type,CHNA_Year,Service_Area_Type,Service_Area_Counties,Service_Area_Zip,Service_Area_Places,Health_Needs,Health_Priorities,CHNA_URL,Implementation_URL,Contact
+6310110,Alfred I. duPont Hospital for Children,1600 Rockland Road,Wilmington,19803,DE,Nemours,Non-Profit,2019,List of Counties,"New Castle, Kent, Sussex",N/A,N/A,"Access to Mental Health Care, Substance Use/Misuse, Weight/Healthy Eating/Physical Activity, Mental Health/Trauma","Mental Health, Social Determinants of Health",https://www.nemours.org/content/dam/nemours/wwwv2/filebox/about/DV-2019-CHNA-assessment-report.pdf,https://www.nemours.org/content/dam/nemours/wwwv2/filebox/about/dv-implementation-plan-CHNA.pdf,CommunityNeedsDE@nemours.org
+6310007,Bayhealth Medical Center,640 South State Street,Dover,19901,DE,,,2019,Combination of counties and zip codes,Kent,"19953, 19901, 19979, 19964, 19904, 19938, 19946, 19952, 19943, 19954, 19962, 19977, 19934
+",N/A,"Mental Health
+Obesity
+Cancer
+Availability of Providers",N/A,https://www.bayhealth.org/-/media/files/community-health-and-wellness/community-health-needs-assessment/2019-bayhealth-kent-county-chna-final.ashx,N/A,N/A
+6310030,Beebe Healthcare,424 Savannah Road,Lewes,19958,DE,,Non-Profit,2019,"Combination of counties, zip codes, and places",Sussex,"19930, 19933, 19939, 19971, 19945, 19947, 19951, 19958, 19966, 19967, 19968, 19970, 19975, 19956, 19960, 19963, 19973","Bethany/South Bethany, Bridgeville, Dagsboro, Dewey/ Rehoboth Beaches, Frankford, Georgetown, Harbeson, Lewes, Long Neck/ Millsboro, Millville, Milton, Ocean View, Selbyville, Laurel, Lincoln, Milford, Seaford
+Bridgeville
+Dagsboro
+Dewey/Rehoboth Beaches
+Frankford
+Georgetown
+Harbeson
+Lewes
+Long Neck/Millsboro
+Millville
+Milton
+Ocean View
+Selbyville
+Laurel
+Lincoln
+Milford
+Seaford","Substance Use Disorder Services
+Cancer Screening, Education, and Prevention
+Obesity Prevention and Treatment
+Mental Health Services
+Access to Care and Coverage for Services ","Behavioral Health and Mental Health
+Cancer/Prevention & Screening
+Obesity/Nutrition/Chronic Disease",https://www.beebehealthcare.org/sites/default/files/Official%20Beebe%20CHNA%20June%202019_FINAL.pdf,https://www.beebehealthcare.org/sites/default/files/2019%20CHNA%20Implementation%20Plan%20November_FINAL%20KB.pdf,N/A
+6310120,Christiana Care Health System,4755 Ogletown-Stanton Road,Newark,19713,DE,Christiana Care Health System,Non-Profit,2022,"Combination of counties, zip codes, and places",New Castle,"19720, 19702, 19711, 19709, 19701, 19808, 19805, 19713, 19802, 19810, 19803, 19804, 19801, 19707, 19703, 19809, 19734, 19806, 19807, 19717, 19706, 19716, 19730, 19731, 19732, 19733, 19736","New Castle, Newark, Middletown, Bear, Wilmington, Hockessin, Claymont, Townsend, Delaware City, Odessa, Port Penn, Rockland, Saint Georges, Yorklyn","Access to Health Services, Chronic Health Conditions, Maternal and Child Health,  Mental Health and Substance Use Disorder,  Social Determinants of Health, Violent Crime",N/a,https://issuu.com/christianacare/docs/2022_new_castle_county_community_health_needs_asse,https://issuu.com/christianacare/docs/2022_chip_final,N/A
+6310020,Delaware Psychiatric Center,1901 North Dupont Highway,New Castle,19720,DE,,Non-Profit,N/A unable to find,,,,,,,,,
+6310012,Dover Behavioral Health System,725 Horsepond Road,Dover,19901,DE,"Universal Health Services, Inc.",Unable to Find,N/A unable to find,,,,,,,,,
+6310390,HEALTHSOUTH Rehabilitation Hospital of Middletown,250 East Hampden Road,Middletown,19709,DE,Encompass Health Corporation,For-Profit,N/A unable to find,,,,,,,,,
+6310025,Meadow Wood Behavioral Health System,575 South Dupont Highway,New Castle,19720,DE,Meadow Wood Behavioral Health System,Non-Profit,2022,"Combination of counties, zip codes, and places",New Castle,"19701, 19702, 19703, 19706, 19707, 19709, 19711, 19713, 19720, 19730, 19731, 19732, 19733, 19734, 19736, 19801, 19802, 19803, 19804, 19805, 19806, 19807, 19808, 19809, 19810 "," Newark, New Castle, Wilmington, Bear, Middletown, Hockessin, Claymont,Townsend, Delaware City, Odessa, Port Penn, Saint Georges, Yorklyn, Rockland","Access to care, chronic health conditions, maternal and child health, mental health and substance abuse disorder, social determinants of health, violent crime","Increase access to health care services, improve management of chronic conditions, reduce disparities in quality measures and outcomes, improve women and children's health, increase access to behavioral health services, increase patient social determinants of health screening, decrease community violence ",https://issuu.com/christianacare/docs/2022_new_castle_county_community_health_needs_asse ,https://issuu.com/christianacare/docs/2022_chip_final ,N/A
+6310080,Nanticoke Memorial Hospital,801 Middleford Road,Seaford,19973,DE,,,2019,List of Counties,Sussex ,N/A,N/A,"Access to care, diabetes, obesity, cancer, lung cancer, and pre-natal care","Health coverage, transportation, education, and poverty levels ",http://assets.thehcn.net/content/sites/delaware/Nanticoke_CHNA.pdf,N/A,N/A
+6310145,Rockford Center,100 Rockford Drive,Newark,19713,DE,"Universal Health Services, Inc.",Unable to Find,N/A unable to find,,,,,,,,,
+6310011,Select Specialty Hospital-Wilmington,"701 North Clayton Street, 5th Floor",Wilmington,19805,DE,Select Medical Corporation,Unable to Find,N/A unable to find,,,,,,,,,
+6310140,St. Francis Hospital,701 North Clayton Street,Wilmington,19805,DE,Trinity Health,Non-Profit,2022,Combination of zip codes and places,N/A,"19801, 19802, 19805",Wilmington ,"Substance Abuse and Mental Health
+Impact of Trauma on Health,
+Equitable Access to Care, 
+ Affordable Housing, 
+Lack of Education
+"," Behavior Health
+Access to Care (with a focus on chronic disease prevention and management), 
+ Food Insecurity",https://www.trinityhealthma.org/assets/documents/community-benefit/chna-sfh-2023.pdf ,https://www.trinityhealthma.org/assets/documents/community-benefit/chna-sfh-implementation-2024.pdf ,N/A
+6310150,Wilmington Veterans Affairs Medical Center,1601 Kirkwood Highway,Wilmington,19805,DE,Department of Veterans Affairs,Non-Profit,N/A unable to find,,,,,,,,,
